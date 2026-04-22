@@ -86,7 +86,7 @@ resumeai/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/resumeai.git
+git clone https://github.com/sujallkumar/resumeai.git
 cd resumeai
 ```
 
@@ -188,10 +188,17 @@ REACT_APP_API_URL=http://localhost:8000 npm start
 
 ## Screenshots
 
-> Upload screenshots of your app here after running it!
-> `![Landing Page](screenshots/landing.png)`
+<img width="1920" height="1080" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/1f4222c1-1ddf-49d2-a461-47ce752a9c4e" />
+<img width="1920" height="1080" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/c3f51038-9caa-4cdf-921c-2187e343544f" />
+<img width="1920" height="1080" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/e0aed63b-ffd2-4667-b26e-c82fe26f9371" />
+<img width="1920" height="1080" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/14895b8d-0edc-44df-b60d-733d204a9f7e" />
+<img width="1920" height="1080" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/91c6e06f-04fc-4d1b-9905-0d1525441102" />
+<img width="1920" height="1080" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/46b51128-cfc2-433a-9d50-2993b4db7397" />
+<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/3caf5103-4524-4789-86fb-a705c43d05e2" />
 
----
+
+
+
 
 ## 🗺️ Roadmap
 
