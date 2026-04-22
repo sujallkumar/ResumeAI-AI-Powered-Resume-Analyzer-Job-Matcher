@@ -51,7 +51,7 @@ A full-stack AI career platform that analyzes your resume, scores it against ATS
 
 ```
 resumeai/
-├── .env                        # API keys (never commit this!)
+├── .env                        
 ├── .gitignore
 ├── docker-compose.yml          # Orchestrates all services
 ├── README.md
